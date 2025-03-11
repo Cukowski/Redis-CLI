@@ -50,7 +50,7 @@ You can use terminal to build, make and use.
 
 ### **Build Instructions**
 ```sh
-git clone https://git.us.qwasar.io/my_cpp_redis_client_180048_hkz9ke/my_cpp_redis_client
+git clone https://github.com/Cukowski/Redis-CLI.git my_cpp_redis_client
 cd my_cpp_redis_client
 make
 ```
